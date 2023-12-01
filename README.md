@@ -165,7 +165,7 @@ contract HTLC {
 ## 3. 컴파일 및 실행 방법
 
 3-1. HTLC 스마트 컨트랙트를 Solidity 언어로 작성한다.
-Remix IDE (https://remix.ethereum.org/)를 사용했다.
+Remix IDE (https://remix.ethereum.org/) 를 사용했다.
 Remix IDE에서 HTLC.sol 파일을 생성하고 컴파일한다.
 
 3-2. Web3.js를 사용하여 이 스마트 컨트랙트와 상호작용하는 JavaScript 코드를 작성한다.
