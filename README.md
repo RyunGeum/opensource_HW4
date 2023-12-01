@@ -3,7 +3,7 @@
 ## 1. 개발 내용
 
 
-### ● HTLC lock 소스코드를 활용하여 ethereum testnet에서 ethereum wallet 계정에서 스마트 컨트랙트로 동작시키고, 이를 Web3.js 로 연계 호출하여 동작하는 애플리케이션을 개발.
+### ● HTLC lock 소스코드를 활용하여 ethereum testnet에서 ethereum wallet 계정에서 스마트 컨트랙트로 동작시키고 이를 Web3.js 로 연계 호출하여 동작하는 애플리케이션을 개발.
 
 
 1-1. ethereum 과 연동된 metamask wallet 계정을 만든다.
